@@ -17,11 +17,11 @@ description: Programmer From Somewhere On Earth
 footer-links:
   dribbble:
   email: ioncomm0705@gmail.com
-  facebook:
+  facebook:ioncomm0705
   flickr:
   github: ioncomm0705
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://akshayagarwal007.github.io)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:https://www.i-on.net
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
