@@ -2,7 +2,7 @@
 
 layout: category
 
-title: frontend dev
+title: frontend-dev
 
 permalink: /frontend-dev/
 ---
