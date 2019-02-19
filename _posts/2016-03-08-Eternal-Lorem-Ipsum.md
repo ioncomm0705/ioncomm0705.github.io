@@ -3,7 +3,7 @@ layout: post
 title: The Eternal Lorem Ipsum Placeholder Text Here
 author: Author Name
 comments : true
-categories : member2
+categories : dapp
 tag : github blog
 ---
 
