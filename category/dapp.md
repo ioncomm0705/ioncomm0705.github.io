@@ -2,6 +2,6 @@
 
 layout: category
 
-title: dapp.md
+title: dapp
 
 ---
