@@ -3,9 +3,20 @@ layout: default
 ---
 {% assign category = page.category | default: page.title %}
 <h2>"{{ page.category | default: page.title }}" 카테고리 입니다. </h2>
-{% if category == "nodejs" %}
+{% if category == "dapp" %}
+<p>dapp에 대한 소개입니다.</p>
+{% elseif category == "devops" %}
+<p>DevOps에 대한 소개입니다.</p>
+{% elseif category == "frontend-dev" %}
+<p>Frontend 개발에 필요한 다양한 script에 대한  소개입니다.</p>
+{% elseif category == "gsuite" %}
+<p>구글 G Suite를 이용한 협업 도구에 대한 소개입니다.</p>
+{% elseif category == "linuxpc" %}
+<p>linux PC 구축에 대한 소개입니다.</p>
+{% elseif category == "nodejs" %}
 <p>node.js에 대한 소개입니다.</p>
-{% else %}
+{% elseif category == "vuejs" %}
+<p>vue.js에 대한 소개입니다.</p>
 {% endif %}
 <ul class="posts-list">
   
