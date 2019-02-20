@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: "About IONIn Tech"
 permalink: /about/
 ---
 
