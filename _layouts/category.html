@@ -5,6 +5,7 @@ layout: default
 <h2>"{{ page.category | default: page.title }}" 카테고리 입니다. </h2>
 {% if page.category == nodejs %}
 <p>node.js에 대한 소개입니다.</p>
+{% else %}
 {% endif %}
 <ul class="posts-list">
   
