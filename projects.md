@@ -58,4 +58,4 @@ jenkins와 git등의 형상관리 연동후 개발 및 상용서버에 배포
 
 ## Contact me
 
-[ioncomm0705@gmail.com](mailto:ioncomm0705@gmail.com)
+[mi.marketing.team@i-on.net](mailto:mi.marketing.team@i-on.net)
