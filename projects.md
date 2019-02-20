@@ -7,9 +7,7 @@ permalink: /projects/
 ### [Front-end Dev](https://github.com/tux4kids/tuxmania) 
 Front-end에 사용되는 다양한 script에 대한 이해 및 예제등을 이용한 Prototype 개발
 
-김태연
-박주성
-한승훈
+김태연 / 박주성 / 한승훈
 
 ***
 
@@ -30,9 +28,7 @@ vue.js 에 대한 이해 및 빠르게 개발에 사용할수 있도록하는 �
 ### [G Suite](#)
 G suite 에 대한 이해와 특화된 기능에 대한 소개
 
-백상용
-이재갑
-김예나
+백상용 / 이재갑 / 김예나
 
 ***
 
@@ -51,8 +47,7 @@ G suite 에 대한 이해와 특화된 기능에 대한 소개
 ### [DevOps](#)
 jenkins와 git등의 형상관리 연동후 개발 및 상용서버에 배포
 
-조운기
-박진호
+조운기 / 박진호
 
 ***
 
